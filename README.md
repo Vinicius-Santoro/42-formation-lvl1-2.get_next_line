@@ -20,5 +20,5 @@ read from a file descriptor.
 
 ### _Functions for bonus part_
 
-- [`get_next_line_bonus.c`](1.Mandatory-Part/get_next_line_bonus.c) - read file descriptors.
-- [`get_next_line_utils_bonus.c`](1.Mandatory-Part/get_next_line_utils_bonus.c) - auxiliary functions for get_next_line_bonus. (functions were done in the first project).
+- [`get_next_line_bonus.c`](2.Bonus-Part/get_next_line_bonus.c) - read file descriptors.
+- [`get_next_line_utils_bonus.c`](2.Bonus-Part/get_next_line_utils_bonus.c) - auxiliary functions for get_next_line_bonus. (functions were done in the first project).
