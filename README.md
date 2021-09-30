@@ -13,8 +13,12 @@ read from a file descriptor.
 
 ## _Functions made in this project:_
 
-### _Functions for first part_
+### _Functions for mandatory part_
 
-- [`get_next_line.c`](1.Mandatory-Part/get_next_line.c)
-- [`get_next_line_utils.c`](1.Mandatory-Part/get_next_line_utils.c)
-- [`get_next_line_bonus.c`](1.Mandatory-Part/get_next_line_bonus.c)
+- [`get_next_line.c`](1.Mandatory-Part/get_next_line.c) - read the file descriptor.
+- [`get_next_line_utils.c`](1.Mandatory-Part/get_next_line_utils.c) - auxiliary functions for get_next_line. (functions were done in the first project).
+
+### _Functions for bonus part_
+
+- [`get_next_line_bonus.c`](1.Mandatory-Part/get_next_line_bonus.c) - read file descriptors.
+- [`get_next_line_utils_bonus.c`](1.Mandatory-Part/get_next_line_utils_bonus.c) - auxiliary functions for get_next_line_bonus. (functions were done in the first project).
