@@ -1,4 +1,4 @@
-<h1>42-formation-lvl1-libft</h1>
+<h1>42-formation-lvl1-2.get_next_line</h1>
 
 ### _Project 2 - Get Next Line - Second project for the formation of software engineers at school 42 São Paulo_
 
@@ -16,9 +16,9 @@ read from a file descriptor.
 ### _Functions for mandatory part_
 
 - [`get_next_line.c`](1.Mandatory-Part/get_next_line.c) - read the file descriptor.
-- [`get_next_line_utils.c`](1.Mandatory-Part/get_next_line_utils.c) - auxiliary functions for get_next_line. (functions were done in the first project).
+- [`get_next_line_utils.c`](1.Mandatory-Part/get_next_line_utils.c) - auxiliary functions for GNL. (functions were done in the first project - Libft).
 
 ### _Functions for bonus part_
 
 - [`get_next_line_bonus.c`](2.Bonus-Part/get_next_line_bonus.c) - read file descriptors.
-- [`get_next_line_utils_bonus.c`](2.Bonus-Part/get_next_line_utils_bonus.c) - auxiliary functions for get_next_line_bonus. (functions were done in the first project).
+- [`get_next_line_utils_bonus.c`](2.Bonus-Part/get_next_line_utils_bonus.c) - auxiliary functions for GNL_bonus. (functions were done in the first project - Libft).
