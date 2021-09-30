@@ -15,4 +15,6 @@ read from a file descriptor.
 
 ### _Functions for first part_
 
-- [`get_next_line.c`](libft-v2/ft_isalpha.c)
+- [`get_next_line.c`](1.Mandatory-Part/get_next_line.c)
+- [`get_next_line_utils.c`](1.Mandatory-Part/get_next_line_utils.c)
+- [`get_next_line_Bonus.c`](1.Mandatory-Part/get_next_line_bonus.c)
